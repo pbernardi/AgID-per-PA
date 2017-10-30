@@ -89,6 +89,6 @@ A questo punto la procedura di caricamento dell'applicazione è terminata. Ora s
 
 
 
-Treviso 28.10.2017
+Treviso 30.10.2017
 
 

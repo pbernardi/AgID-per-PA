@@ -1,4 +1,5 @@
 Istruzioni di installazione del CRUSCOTTO di GESTIONE Misure SICUREZZA<br>
+In caso di necessità contattare: vedorinpaolo@gmail.com
 
 <strong>INSTALLAZIONE AMBIENTE MICROSOFT</strong><br>
 Istruzioni per l’ACQUISIZIONE MATERIALE

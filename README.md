@@ -88,7 +88,7 @@ e si verrà condotti alla pagina di login
 
 A questo punto la procedura di caricamento dell'applicazione è terminata. Ora si può leggere il file .odt presente nella repository per capire tutte le funzionalità messe a disposizione dell'utente
 
-<br><strong>INSTALLAZIONE AMBIENTE LINUX</strong>(Si ringrazia Stefano Zamboni)<br>
+<br><strong>INSTALLAZIONE AMBIENTE LINUX</strong> (si ringrazia Stefano Zamboni)<br>
 Prerequisiti: php e mysql installati
 installazione effettuata su Ubuntu 16.04, php 7.0
 
